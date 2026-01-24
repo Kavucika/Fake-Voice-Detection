@@ -1,0 +1,8 @@
+1. Open command prompt and redirect to the project folder.
+2. Install the streamlit package by :
+	pip install streamlit
+3. Also install some required package dependencies needed.
+4. Now, run it as :
+	streamlit run app.py
+5. Now a LocalHost URL will be directed :
+6. Open it and explore the project
